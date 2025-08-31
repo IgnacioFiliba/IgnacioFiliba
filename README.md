@@ -46,7 +46,7 @@
 
 ---
 
-## 📈 Actividad en GitHub (animada)
+## 📈 Actividad en GitHub
 <p align="center">
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=IgnacioFiliba&theme=transparent&hide_border=true" alt="GitHub Streak" />
@@ -70,12 +70,10 @@
 
 | Proyecto | Descripción | Tecnologías | Repo | Demo |
 |---|---|---|---|---|
-| Gestión de Turnos | App fullstack con login, CRUD de citas, panel de usuario y roles. | React, Vite, Tailwind, Node, Express, TypeORM, PostgreSQL | [Código](REPO_URL_TURNOS) | [Demo](DEMO_URL_TURNOS) |
-| E-commerce (NestJS) | Backend con auth (JWT), productos, stock, órdenes e integración con MercadoPago. | NestJS, TypeScript, PostgreSQL, TypeORM, JWT | [Código](REPO_URL_ECOMMERCE) | [Demo](DEMO_URL_ECOMMERCE) |
-| Dashboard de Ventas | Módulo para visualizar métricas (ventas/usuarios) con filtros. | React, Recharts, Node/NestJS | [Código](REPO_URL_DASHBOARD) | [Demo](DEMO_URL_DASHBOARD) |
-| Bot Automatización PyME | Bot que automatiza procesos internos y registra datos. | Node.js, APIs, Docker | [Código](REPO_URL_BOT) | — |
+| Sistema de Gestión de Hotelería | App fullstack con login, CRUD de reservas, panel de usuario con roles y gestión de turnos/habitaciones. | React, Vite, Tailwind, Node.js, Express, TypeORM, PostgreSQL | https://github.com/pi-rym/PM3-IgnacioFiliba | [Demo](DEMO_URL_HOTEL) |
+| E-commerce Completo | Backend con auth (JWT), productos, stock, órdenes e integración con MercadoPago. Incluye panel de usuario y administración. | NestJS, TypeScript, PostgreSQL, TypeORM, JWT, MercadoPago API | https://github.com/IgnacioFiliba/PF-Grupo5 | [Demo](DEMO_URL_ECOMMERCE) |
+| Bot Automatización PyME | Bot que automatiza procesos internos y registra datos en planillas/APIs externas, reduciendo carga operativa. | Node.js, APIs REST, Docker | https://github.com/IgnacioFiliba/Automatization-sistem | — |
 
-> 💡 Tip: agregá en cada repo un README con **preview (gif/screenshot)**, instrucciones de instalación y sección de **tecnologías**.
 
 ---
 
