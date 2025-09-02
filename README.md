@@ -88,8 +88,10 @@
   </a>
   <a href="https://github.com/IgnacioFiliba">
     <img src="https://img.shields.io/badge/GitHub-IgnacioFiliba-000000?logo=github&logoColor=white" />
-  </a>
+  </a>  
+  <img src="https://img.shields.io/badge/Ubicación-Anisacate%2C%20Córdoba%2C%20Argentina-1C92FF?logo=google-maps&logoColor=white" />
 </p>
+
 
 ---
 
