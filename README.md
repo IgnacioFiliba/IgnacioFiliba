@@ -68,8 +68,8 @@
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías | Repo | Demo |
-|---|---|---|---|---|
+| Proyecto | Descripción | Tecnologías | Repo |
+|---|---|---|---|
 | Sistema de Gestión de Hotelería | App fullstack con login, CRUD de reservas, panel de usuario con roles y gestión de turnos/habitaciones. | React, Vite, Tailwind, Node.js, Express, TypeORM, PostgreSQL | https://github.com/pi-rym/PM3-IgnacioFiliba |
 | E-commerce Completo | Backend con auth (JWT), productos, stock, órdenes e integración con MercadoPago. Incluye panel de usuario y administración. | NestJS, TypeScript, PostgreSQL, TypeORM, JWT, MercadoPago API | https://github.com/IgnacioFiliba/PF-Grupo5 |
 | Bot Automatización PyME | Bot que automatiza procesos internos y registra datos en planillas/APIs externas, reduciendo carga operativa. | Node.js, APIs REST, Docker | https://github.com/IgnacioFiliba/Automatization-sistem |
