@@ -14,7 +14,7 @@
 ---
 
 ## ✨ Acerca de mí
-- 💻 Trabajo con **React, Next.js, Tailwind, Node.js, NestJS, TypeORM, PostgreSQL**.  
+- 💻 Trabajo con **React, Next.js, Tailwind, Node.js, NestJS, TypeORM, PostgreSQL, Python**.  
 - 🧱 Me gustan las **buenas prácticas**, arquitectura limpia y testing.  
 - ☁️ Deploy con **Render** (back) y **Vercel** (front).  
 - 🤝 Disfruto el trabajo en equipo y aprender algo nuevo todos los días.
